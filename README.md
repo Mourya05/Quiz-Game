@@ -1,2 +1,4 @@
 # Quiz-Game
 The `Quiz_Game` program is a Java-based console application that simulates a timed quiz. It features a `QuizQuestion` class to define each question, its options, and the correct answer, and a `Quiz` class to manage the gameplay. The quiz presents multiple-choice questions to the user, tracks their responses, and calculates a final score. Each question has a 15-second timer, implemented using the `Timer` class, to ensure prompt responses. Feedback on correctness is provided immediately after each answer, and the score, along with a performance assessment, is displayed at the end. This application demonstrates core Java concepts, including object-oriented programming, collections, and multithreading, making it both educational and engaging.
+
+<!-- copilot-tick 2026-01-17T04:56:23.341Z -->
